@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  paid_by: MyString
+  amount: 9.99
+  paid_at: 2025-03-11 13:55:10
+
+two:
+  user_id: 1
+  paid_by: MyString
+  amount: 9.99
+  paid_at: 2025-03-11 13:55:10
